@@ -35,10 +35,10 @@ function showInput3() {
 
 //// is this how you set up a class as object template with more than 2 properties? (vinh)
 
-class myUser {
-  constructor(name, number, address, email) {
-    this.name = name;
-    this.number = number;
-    this.address = address;
-    this.email = email;
-}
+// class myUser {
+//   constructor(name, number, address, email) {
+//     this.name = name;
+//     this.number = number;
+//     this.address = address;
+//     this.email = email;
+// }
